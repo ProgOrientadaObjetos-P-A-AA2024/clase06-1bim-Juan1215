@@ -18,11 +18,6 @@ public class Memoria {
         costo = c;
     }
 
-    public Memoria(String n) {
-        marca = n;
-        costo = 350;
-    }
-
     public void establecerMarca(String n) {
         marca = n;
     }

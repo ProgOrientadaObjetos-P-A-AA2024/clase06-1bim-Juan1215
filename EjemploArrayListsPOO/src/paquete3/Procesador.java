@@ -10,11 +10,6 @@ public class Procesador {
         costo = c;
     }
 
-    public Procesador(String n) {
-        marca = n;
-        costo = 950;
-    }
-
     public void establecerMarca(String n) {
         marca = n;
     }
